@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/navigation_latihan_soal"
-        android:name="com.example.akumau.LatihanSoalFragment"
+        android:name="com.example.akumau.ui.latihansoal.LatihanSoalFragment"
         android:label="@string/title_latihan_soal"
         tools:layout="@layout/fragment_latihan_soal" />
 
     <fragment
         android:id="@+id/navigation_try_out"
-        android:name="com.example.akumau.TryOutFragment"
+        android:name="com.example.akumau.ui.tryout.TryOutFragment"
         android:label="@string/title_try_out"
         tools:layout="@layout/fragment_try_out" />
 </navigation>
