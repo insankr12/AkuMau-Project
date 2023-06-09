@@ -55,68 +55,6 @@ function getTermsAndConditions() {
   return termsAndConditions;
 }
 
-const topikMateri = [
-  {
-    nama: 'Pengetahuan Kuantitatif',
-    subBab: [
-      { nama: 'Aljabar', link: 'http://example.com/materi/aljabar.pdf' },
-      { nama: 'Geometri', link: 'http://example.com/materi/geometri.pdf' },
-    ],
-  },
-  {
-    nama: 'Penalaran Umum',
-    subBab: [
-      { nama: 'Logika', link: 'https://drive.google.com/file/d/1dmVIXVyhp4_bt-Bqg46DSWhgdPK6KkeJ/view?usp=drive_link' },
-      { nama: 'Argumentasi', link: 'http://example.com/materi/argumentasi.pdf' },
-    ],
-  },
-  {
-    nama: 'Pengetahuan dan Pemahaman Umum',
-    subBab: [
-      { nama: 'Aljabar', link: 'http://example.com/materi/aljabar.pdf' },
-      { nama: 'Geometri', link: 'http://example.com/materi/geometri.pdf' },
-    ],
-  },
-  {
-    nama: 'Pemahaman Bacaan dan Menulis',
-    subBab: [
-      { nama: 'Aljabar', link: 'http://example.com/materi/aljabar.pdf' },
-      { nama: 'Geometri', link: 'http://example.com/materi/geometri.pdf' },
-    ],
-  },
-  {
-    nama: 'Literasi Bahasa Inggris',
-    subBab: [
-      { nama: 'Aljabar', link: 'http://example.com/materi/aljabar.pdf' },
-      { nama: 'Geometri', link: 'http://example.com/materi/geometri.pdf' },
-    ],
-  },
-  {
-    nama: 'Literasi Bahasa Indonesia',
-    subBab: [
-      { nama: 'Aljabar', link: 'http://example.com/materi/aljabar.pdf' },
-      { nama: 'Geometri', link: 'http://example.com/materi/geometri.pdf' },
-    ],
-  },
-  {
-    nama: 'Penalaran Matematika',
-    subBab: [
-      { nama: 'Aljabar', link: 'http://example.com/materi/aljabar.pdf' },
-      { nama: 'Geometri', link: 'http://example.com/materi/geometri.pdf' },
-    ],
-  },
-  // Add other topics and sub-bab
-];
-
-function getTopikMateri() {
-  return topikMateri.map((topik) => topik.nama);
-}
-
-function getSubBabByTopik(topik) {
-  const selectedTopik = topikMateri.find((t) => t.nama === topik);
-  return selectedTopik ? selectedTopik.subBab : null;
-}
-
 module.exports = {
   addUser,
   getUserByUsername,
@@ -125,6 +63,4 @@ module.exports = {
   getTermsAndConditions,
   updateUserVerificationStatus,
   verifyOTP,
-  getTopikMateri,
-  getSubBabByTopik,
 }
