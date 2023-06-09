@@ -2,7 +2,7 @@
 
 const express = require('express');
 const router = express.Router();
-const { handleRegistration, handleLogin, handleTermsAndConditions, handleOTPVerification, handleTopikMateri, handleSubBabByTopik } = require('./handler');
+const { handleRegistration, handleLogin, handleTermsAndConditions, handleOTPVerification, handleMateri } = require('./handler');
 
 // Rute untuk registrasi
 router.post('/register', handleRegistration);
@@ -17,7 +17,6 @@ router.get('/terms', handleTermsAndConditions);
 router.post('/verification', handleOTPVerification);
 
 // Rute untuk pemilihan materi
-router.get('/topik', handleTopikMateri);
-router.get('/subbab/:topik', handleSubBabByTopik);
+router.get('/materi', handleMateri);
 
 module.exports = router;
