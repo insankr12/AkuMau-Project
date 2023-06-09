@@ -1,6 +1,6 @@
 // handler.js
 
-const { addUser, getUserByUsername, generateOTP, sendEmail, getTermsAndConditions, getTopikMateri, getSubBabByTopik } = require('./database');
+const { addUser, getUserByUsername, generateOTP, sendEmail, getTermsAndConditions } = require('./database');
 
 // Fungsi untuk menangani permintaan registrasi
 function handleRegistration(req, res) {
@@ -68,20 +68,30 @@ function handleTermsAndConditions(req, res) {
   res.render('terms', { termsAndConditions });
 }
 
-// Fungsi untuk menampilkan materi
-function handleTopikMateri(req, res) {
-  const topikMateri = getTopikMateri();
-  res.json(topikMateri);
-}
+function handleMateri(req, res) {
+  const materiList = [
+    { nama: 'Penalaran Umum', link: 'https://drive.google.com/drive/folders/1OLoo41QCvq8G_YLVmk5Qh7y37e1Z1vCF?usp=drive_link', tokenId: 'penalaran-umum' },
+    { nama: 'Penalaran Matematika', link: 'https://drive.google.com/drive/folders/1mXF8Lgg1sxb5hRAkjPYLuAuU75rbxiUd?usp=drive_link', tokenId: 'penalaran-matematika' },
+    { nama: 'Pengetahuan Kuantitatif', link: 'https://drive.google.com/drive/folders/136zvhF9YDVjyHoXo60MK32hgMt3ImKF9?usp=drive_link', tokenId: 'pengetahuan-kuantitatif' },
+    { nama: 'Pengetahuan dan Pemahaman Umum', link: 'https://drive.google.com/drive/folders/1CsUw57YrlV9tch53cG4XcIAEvC167Mig?usp=drive_link', tokenId: 'pengetahuan-umum' },
+    { nama: 'Pemahaman Bacaan dan Menulis', link: 'https://drive.google.com/drive/folders/1O9CcyhqemxzBU1_5KzXou3TXXqiTnsyk?usp=drive_link', tokenId: 'pemahaman-bacaan' },
+    { nama: 'Literasi Bahasa Inggris', link: 'https://drive.google.com/drive/folders/1MisRJGL4DyZFphFsry2OA5nda53Kig1C?usp=drive_link', tokenId: 'literasi-inggris' },
+    { nama: 'Literasi Bahasa Indonesia', link: 'https://drive.google.com/drive/folders/1BtOiHe-vz0cEu-VpGhvd28esnZtl13lP?usp=drive_link', tokenId: 'literasi-indonesia' },
+  ];
 
-function handleSubBabByTopik(req, res) {
-  const { topik } = req.params;
-  const subBab = getSubBabByTopik(topik);
+  const { tokenId } = req.body;
 
-  if (subBab) {
-    res.json(subBab);
+  if (tokenId) {
+    // Cari materi berdasarkan tokenId
+    const selectedMateri = materiList.find((materi) => materi.tokenId.toLowerCase() === tokenId.toLowerCase());
+    if (selectedMateri) {
+      // Jika materi ditemukan, kirimkan link yang terkait
+      res.redirect(selectedMateri.link);
+    } else {
+      res.status(404).json({ message: 'Materi tidak ditemukan' });
+    }
   } else {
-    res.status(404).json({ message: 'Sub-bab not found' });
+    res.status(400).json({ message: 'Token ID tidak valid' });
   }
 }
 
@@ -90,6 +100,5 @@ module.exports = {
   handleLogin,
   handleTermsAndConditions,
   handleOTPVerification,
-  handleTopikMateri,
-  handleSubBabByTopik,
+  handleMateri,
 };
