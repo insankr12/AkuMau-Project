@@ -25,19 +25,19 @@ AkuMau is an online learning application to prepare for UTBK-SNBT. This applicat
 10. a
 
 ## Create using the following technology stack:
-### * Kotlin for mobile app development
+### 1. Kotlin for mobile app development
 test1
-### * TensorFlow for machine learning tasks
+### 2. TensorFlow for machine learning tasks
 test1
-### * Google Cloud App Engine for cloud infrastructure
+### 3. Google Cloud App Engine for cloud infrastructure
 test1
-### * Node.js and Express.js for server-side development
+### 4. Node.js and Express.js for server-side development
 test1
-### * CloudSQL using mySQL as the database
+### 5. CloudSQL using mySQL as the database
 test1
-### * Firebase for authentication and authorization
+### 6. Firebase for authentication and authorization
 test1
-### * Docker for containerization of the application
+### 7. Docker for containerization of the application
 test1
 
 ## Our team member
