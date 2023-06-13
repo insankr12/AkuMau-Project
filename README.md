@@ -3,11 +3,42 @@
 ## About this app
 AkuMau is an online learning application to prepare for UTBK-SNBT. This application provides UTBK-SNBT questions and answer’s explanations from previous years and predictions of questions that will be tested on UTBK-SNBT in the future. In addition, this application also provides learning materials and several features such as try-out feature to train students' abilities, discussion forum feature to discuss with other students, and recommendation feature to recommend materials that must be studied by students based on incorrect answers and based on predictions of UTBK-SNBT in the future.
 
-## Feature
+## Features
 * a
 * b
 * c
 * d
+
+## Architecture Design
+(pic)
+
+## Workflow
+1. a
+2. a
+3. a
+4. a
+5. a
+6. a
+7. a
+8. a
+9. a
+10. a
+
+## Create using the following technology stack:
+### * Kotlin for mobile app development
+test1
+### * TensorFlow for machine learning tasks
+test1
+### * Google Cloud App Engine for cloud infrastructure
+test1
+### * Node.js and Express.js for server-side development
+test1
+### * CloudSQL using mySQL as the database
+test1
+### * Firebase for authentication and authorization
+test1
+### * Docker for containerization of the application
+test1
 
 ## Our team member
 | Member Name              | Student ID  | Learning Path      | LinkedIn Profile                                                                |
@@ -19,15 +50,8 @@ AkuMau is an online learning application to prepare for UTBK-SNBT. This applicat
 | Maulana Aziz Arrazi      | M181DSX3225 | Machine Learning   | [Maulana Aziz Arrazi](https://id.linkedin.com/in/maulana-aziz-arrazi-9890241b8) |
 | Ahmad Zuhal Zhafran      | A151DSX3392 | Mobile Development | [Ahmad Zuhal Zhafran](https://id.linkedin.com/in/maulana-aziz-arrazi-9890241b8) |
 
-## Create using the following technology stack:
-* Kotlin for mobile app development
-* TensorFlow for machine learning tasks
-* Google Cloud App Engine for cloud infrastructure
-* Node.js and Express.js for server-side development
-* CloudSQL using mySQL as the database
-* Firebase for authentication and authorization
-* Docker for containerization of the application
-
+## Monitoring
+test1
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
