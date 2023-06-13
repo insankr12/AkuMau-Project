@@ -1,0 +1,382 @@
+id_soal,soal,jawaban,jawaban_benar,materi,jumlah_dikerjakan,jumlah_benar,kategori_soal
+pk1,"Sebuah kurva parabolik memiliki fungsi
+f(x) = 2x² + bx + 5b dengan b ≠ 0
+memotong sumbu x di dua titik yang
+berbeda. Dibawah ini pernyataan yang
+benar terkait b adalah....","(A) b > 2√10
+(B) b < 0 atau b > 40
+(C) b < 2√10
+(D) b < 40
+(E) 0 < b < 40",(B) b>0 atau b>40,fungsi kuadrat,553,178,sulit
+pk2,"Terdapat sampel berat badan 5 orang
+(dalam kg) karyawan kantor sebagai
+berikut :
+
+70, x, 92,85,84
+
+Jika rata – rata berat badan orang
+dewasa di kantor tersebut adalah 79 kg.
+Mana kah pernyataan yang benar
+dibawah ini?","(A) Berat badan orang x adalah 74 kg
+(B) Variansi data sampel adalah √134
+(C) Jangkauannya adalah 22
+(D) Data terkecil sama dengan (n − 1)^3 dimana n adalah banyaknya data
+sampel
+(E) Median data adalah 92.",(D) Data terkecil sama dengan (n-1)^3 dimana n adalah banyaknya data sampel,statistika,728,85,sulit
+pk3,"Terdapat garis y = 2x + 3 dan kurva
+parabolik dengan fungsi f(x) = ax² −
+6x − 9. Jika keduanya saling
+bersinggungan di salah satu titik, maka
+nilai a adalah....","(A) −1
+(B) 1
+(C) − 4/3
+(D) − 3/4
+(E) 3/4",(C) − 4/3,fungsi kuadrat,435,328,mudah
+pk4,"Dari angka-angka 1, 2, 3, 4, 5, dan 6, akan
+dibentuk suatu bilangan dengan syarat
+
+setiap bilangan tidak boleh ada angka
+yang sama. Berapakah banyaknya
+bilangan yang terdiri atas 4 angka dan
+merupakan bilangan prima?","(A) 60 cara
+(B) 120 cara
+(C) 100 cara
+(D) 160 cara
+(E) 180 cara",(E) 180 cara,kombinasi dan permutasi,488,486,mudah
+pk5,"Garis dengan persamaan mana saja yang
+memotong garis 2x + y = 4 dan x +
+2y = 2 di dua titik berbeda?
+(1) y = −x + 5
+(2) y = x − 2
+(3) y = 3x − 1
+(4) y = −2x + 7","(A) (1), (2), (3)
+(B) (1) dan (3)
+(C) (2) dan (4)
+(D) Hanya (4) yang benar
+(E) Semuanya benar",(D) Hanya (4) saja,persamaan garis,535,288,sedang
+pk6,"Jika a/b = 2, maka nilai dari 4a/b adalah....","(A) 0
+(B) 1
+(C) 2
+(D) 3
+(E) 4",(C) 2,aljabar,180,77,sedang
+pk7,"Jika (ax + 2)(bx + 7) = 15x² + cx + 14
+untuk semua nilai x, dan a + b = 8,
+maka nilai c yang mungkin adalah....","(A) 3 dan 5
+(B) 6 dan 35
+(C) 10 dan 21
+(D) 31 dan 41
+(E) 31 dan 39",(D) 31 dan 41,fungsi kuadrat,696,2,sulit
+pk8,"Manakah angka berikut yang tidak
+termasuk dalam solusi dari
+pertidaksamaan berikut :
+3x − 5 ≥ 4x − 3","(A) −1
+(B) −2
+(C) −3
+(D) −5
+(E) −6",(A) −1,Pertidaksamaan Linear,518,129,sulit
+pk9,"Diberikan 4 buah data yaitu 3,5,9, x. Berapakah banyaknya dari empat pernyataan berikut yang bernilai benar berdasarkan informasi di atas?
+(1) Rata-rata kumpulan data tersebut 6 bila x = 7. 
+(2) Median kumpulan data tersebut 5 bila x = 5.
+(3) Jangkauan kumpulan data tersebut 4 bila x = 6.
+(4) Modus kumpulan data tersebut 3 bila x = 5. ","(A) 0
+(B) 1
+(C) 2
+(D) 3
+(E) 4",(C) 2,statistika,964,681,mudah
+pk10,"Bilangan riil x memenuhi pertidaksamaan 2x − 1 > 4. Berdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q yang benar? diketahui p = -1/2x dan q=-7/2","(A) P > Q
+(B) Q < P
+(C) P = Q
+(D) 2P < Q
+(E) Tidak dapat ditentukan",(A) P > Q,Pertidaksamaan Linear,819,592,mudah
+pk11,"Titik P dan Q berturut-turut terletak pada rusuk AB dan BC kubus ABCD. EFGH dengan PA: PB = 1: 2 dan BQ:QP = 1: 1.
+Manakah dari tiga pernyataan berikut yang bernilai benar berdasarkan informasi di atas?
+(1) Perbandingan volume limas PBQ. F dan volume kubus ABCD. EFGH = 1: 18.
+(2) Perbandingan luas segitga PBQ dengan luas persegi ABCD = 1: 6
+(3) PQ: AC = 1: √2","(A) Semua pernyataan benar
+(B) Pernyataan (1) dan (2) SAJA yang benar
+(C) Pernyataan (2) dan (3) SAJA yang benar
+(D) Pernyataan (3) SAJA yang benar
+(E) Tidak ada pernyataan yang benar",(B) Pernyataan (1) dan (2) saja yang benar,Bangun Ruang,811,134,sulit
+pk12,"Materi : operasi bilangan
+Diketahui interval x adalah −1 ≤ x < 3 ≤ y < 5
+Berdasarkan informasi tersebut, manakah hubungan antara kuantitas P dan Q yang benar. P= Banyaknya x dan y; Q= 3 kalinya bilangin terakhir pada interval x","(A) P > Q
+(B) P < Q
+(C) Q > P
+(D) P = Q
+(E) Tidak dapat ditentukan hubungan",(D) P = Q,Operasi Bilangan ,424,222,sedang
+pk13,((2x + 6)/(x+2)^2)− (2/x+2) Ekspresi diatas ekuivalen dengan (a/(x+2)^2)  dimana a adalah konstanta positif dan nilai x ≠ −2. Berapa nilai dari a?,"(A) 5
+(B) 4
+(C) 3
+(D) 2
+(E) 1",(D) 2,Ekspresi Matematika,863,535,sedang
+pk14,"Boruto memiliki 5 celana dan 7 baju dalam lemarinya. Dia ingin memakai celana dan baju yang berberda setiap harinya, tanpa membeli yang baru sebisa mungkin. Berapa minggu dia bisa melakukan hal tersebut?","(A) 7
+(B) 8
+(C) 6
+(D) 4
+(E) 5",(E) 5,kombinasi dan permutasi,847,90,sulit
+pk15,"Pada semester ganjil telah diberikan ulangan harian (UH), ujian tengah semester (UTS), dan ujian akhir semester (UAS). Untuk menentukan nilai akhir, ujian tengah semester memiliki bobot 3 kali lebih banyak dari ulangan harian, dan ujian akhir semester 5 kali lebih besar bobotnya dari ulangan harian. Jika Doel mendapatkan nilai UH 85, 72, dan 81. Sedangkan 79 pada UTS dan 92 pada UAS. Berapakah nilai rata – rata Doel?","(A) 72
+(B) 85
+(C) 82
+(D) 79
+(E) 95",(B) 85,Statistika,166,52,sulit
+pk16,"Sebuah garis pada bidang x, y melewati titik asal dan memiliki kemiringan sebesar 1/7. Manakah dari titik berikut yang terletak pada garis tersebut?","(A) (0,7)
+(B) (1,7)
+(C) (7,7)
+(D) (14,2)
+(E) (2,14)","(D) (14,2)",persamaan garis,403,167,sedang
+pk17,"Persamaan (24x^2+25x-47)/(ax-2)=-8x-3-(53/(ax-2)) bernilai benar untuk setiap x ≠ (2/a)
+Dimana nilai a konstan. Berapa nilai dari a?","(A) −16
+(B) −3
+(C) 3
+(D) 16
+(E) 20",(B) −3,Persamaan kuadrat,172,103,sedang
+pk18,"y ≤ −15x + 3000
+y ≤ 5x
+Pada bidang x, y jika sebuah titik dengan koordinat (a, b) terletak pada himpunan penyelesaian dari sistem pertidaksamaan di atas, berapa nilai maksimum yang mungkin dari b?","(A) 750
+(B) 600
+(C) 900
+(D) 150
+(E) 120",(A) 750,Operasi Bilangan ,747,576,mudah
+pk19,"3x + b = 5x − 7
+3y + c = 5y − 7
+Dalam sistem persamaan diatas b dan c adalah sebuah konstanta. Jika b adalah c − 1/2. Manakah pernyataan yang benar? ","(A) x adalah y − 1/4
+(B) x adalah y − 1/2
+(C) x adalah y − 1
+(D) x adalah y + 1/2
+(E) x adalah 2y + 2/5",(A) x adalah y − 1/4,Sistem Persamaan Linear Dua Variabel,156,12,sulit
+pk20,"√(k+2) − x=0
+Jika nilai x = 9, maka nilai k adalah....","(A) 1
+(B) 7
+(C) 16
+(D) 79
+(E) 80",(D) 79,aljabar,740,150,sulit
+pk21,"Berapakah nilai xy jika x > 0?
+(1) y = x^2
+(2) 2y + 6 = 2(x + 3)","(A) Pernyataan (1) SAJA cukup untuk menjawab pertanyaan, tetapi pernyataan (2) SAJA tidak cukup.
+(B) Pernyataan (2) SAJA cukup untuk menjawab pertanyaan, tetapi pernyataan (1) SAJA tidak cukup.
+(C) Dua pernyataan BERSAMA-SAMA cukup untuk menjawab pertanyaan, tetapi SATU pernyataan SAJA tidak cukup.
+(D) Salah satu pernyataan SAJA cukup untuk menjawab pertanyaan.
+(E) Pernyataan (1) dan pernyataan (2) tidak cukup untuk menjawab pertanyaan.","(C) Dua pernyataan BERSAMA-SAMA cukup untuk menjawab pertanyaan, tetapi SATU pernyataan SAJA tidak cukup.",Persamaan Kuadrat,141,136,mudah
+pk22,"Jika a^2 + b^2 = z dan ab = y, manakah dibawah ini yang ekuivalen dengan 4z + 8y?","(A) 2(a + b)^2
+(B) 2(2a + b)^2
+(C) (4a + 4b)^2
+(D) (4a + 8b)^2
+(E) 4(a + b)^2",(E) 4(a + b)^2,Persamaan Kuadrat,306,29,sulit
+pk23,"Sebuah silinder A memiliki volume 22 cm*. Berapakah volume silinder lain yang memiliki jari – jari 2 kalinya silinder A, dan tingginya setengah silidner A? (dalam satuan cm*)","(A) 11
+(B) 22
+(C) 44
+(D) 66
+(E) 77",(C) 44,Geometri 3 dimensi,1,0,sulit
+pk24,4 persen dari s sama dengan 3 persen dari t. Dimana s > 0 dan t > 0. P=s; Q=t,"(A) P > Q
+(B) P < Q
+(C) P = Q
+(D) P + Q = 0
+(E) Tidak dapat ditentukan",(B) P < Q,Perbandingan,725,544,mudah
+pk25,"Pada bidang xy, titik (a, 0) dan (0, b) berada pada garis yang memiliki persamaan y = (1/2)x + 10. P=-(1/2)a; Q=b","(A) P > Q
+(B) P < Q
+(C) P = Q
+(D) (1/2)P > Q
+(E) Tidak dapat ditentukan",(C) P = Q,Persamaan Garis,129,90,sedang
+pk26,"Jika (5^(5x))(25) = 5^n, dimana n dan x adalah bilangan bulat. Maka nilai n dalam bentuk x adalah....","(A) 5x + 1
+(B) 5x + 2
+(C) 5x + 5
+(D) 10x
+(E) 10x + 2",(B) 5x + 2,Bilangan Berpangkat,816,420,sedang
+pk27,"Percobaan tertentu memiliki 3 hasil yang mungkin. Hasil tersebut adalah P,P/2, dan P/4, dimana ketiganya saling lepas. Mana nilai P adalah....","(A) 1/7
+(B) 2/7
+(C) 3/7
+(D) 4/7
+(E) 5/7",(D) 4/7,Peluang,184,99,sedang
+pk28,"Pada sebuah segitiga ABC, sudut B adalah 90° dengan panjang AB = 4 dan panjang BC = x. Jika panjang hipotenusa AC didefinisikan oleh pertidaksamaan 4 < AC < 8. Manakah nilai AC yang memenuhi agar x bilangan bulat positif?","(A) 3
+(B) 4
+(C) 5
+(D) 6
+(E) 7",(C) 5,Sudut dan Segitiga,35,12,sulit
+pk29,y = 2(x)^2 + 7x − 3. P=x ; Q=y,"(A) P > Q
+(B) Q > P
+(C) P = Q
+(D) P + Q = 0
+(E) Hubungan keduanya tidak dapat ditentukan",(E) Hubungan keduanya tidak dapat ditentukan,Persamaan Kuadrat,274,113,sedang
+pk30,"Data L : 2, x, y
+Data M : 1,2,3, x, y
+Jika rata – rata dari 3 angka pada data L adalah 10/3. Maka data – rata dari kumpulan angka pada data M adalah....","(A) 2,8
+(B) 2,9
+(C) 3,0
+(D) 3,1
+(E) 3,2","(A) 2,8",Statistika,40,14,sulit
+pk31,"Pada bidang x, y grafik y = 3(x)^2 − 14x berpotongan dengan grafik y = x pada titik (0,0) dan (a, a). Maka nilai a adalah....","(A) 2
+(B) 3
+(C) 4
+(D) 5
+(E) 6",(D) 5,Fungsi kuadrat,657,342,sedang
+pk32,"Manakah nilai berikut ini yang sama dengan 1/4 dari kebalikannya 0,025%?","(A) 1000
+(B) 10000
+(C) 10
+(D) 100
+(E) 0,625",(A) 1000,Operasi Bilangan ,307,253,mudah
+pk33,"Terdapat sampel berat badan 5 orang (dalam kg) karyawan kantor sebagai berikut :
+70, x, 92,85,84
+Jika rata – rata berat badan orang dewasa di kantor tersebut adalah 79 kg. Mana kah pernyataan yang benar dibawah ini?","(A) Berat badan orang x adalah 74 kg
+(B) Variansi data sampel adalah √134
+(C) Jangkauannya adalah 22
+(D) Data terkecil sama dengan (n − 1)^3 dimana n adalah banyaknya data sampel
+(E) Median data adalah 92.",(D) data terkecil sama dengan (n −1)^3 dimana n adalah banyaknya data sampel,Statistika,392,232,sedang
+pk34,Diketahui bahwa b adalah bilangan riil dan fungsi f(x) = 3(x)^2 + bx + 12. diketahui f(2)=0; P=f(5); Q=3^3,"(A) P > Q
+(B) P < Q
+(C) P = Q
+(D) P + Q = 0
+(E) Hubungan keduanya tidak dapat ditentukan",(C) P = Q,Fungsi kuadrat,817,747,mudah
+pk35,"Dalam sebuah warung bakso menyediakan berbagai paket makan. Paket 1 berisi 2 bakso besar dan 3 bakso kecil dengan harga Rp21,000, − .Sedangkan Paket 2 adalah porsi jumbo berisi 2 bakso besar dan 5 bakso kecil. Untuk pembelian paket ini diperlukan biaya tambahan sebesar Rp4,000, − dari biaya paket 1. Seandainya kita ingin memesan diluar biaya paket, dengan 1 mangkok berisi 1 bakso besar dan 3 bakso kecil. Berapa harga yang harus dibayar?","(A) Rp11,000, −
+(B) Rp12,000, −
+(C) Rp12,500, −
+(D) Rp13,000, −
+(E) Rp13,500, −","(E) Rp13,500, −",SPLDV,459,260,sedang
+pk36,"Pada sebuah percetakan, mesin I dapat membuat 240 salinan dalam waktu 8 menit. Sedangkan mesin II mampu membuat 240 salinan dalam waktu 5 menit. Berapa lebih banyak kah hasil salinan yang dicetak mesin II selama 4 menit, daripada mesin I selama 6 menit?","(A) 10
+(B) 12
+(C) 15
+(D) 20
+(E) 24",(B) 12,Perbandingan,558,412,mudah
+pk37,"Alas sebuah segitiga memiliki panjang b, dan memiliki hubungan dengan tinggi h. Hubungan tersebut memenuhi b = 2h. Manakah ekspresi matematika berikut yang menyatakan luas segitiga dalam bentuk h?","(A) (1/2) h^2
+(B) (3/4) h^2
+(C) h^2
+(D) (3/2) h^2
+(E) 2(h^2)",(C) h^2,sudut dan Segitiga,701,449,sedang
+pk38,"Untuk semua bilangan bulat x, fungsi f didefinisikan sebagai :
+f(x) = x-1 ; jika x genap
+f(x) = x + 1 ; jika x ganjil
+Jika a dan b adalah bilangan bulat dan f(a) + f(b) = a + b. Manakah pernyataan dibawah ini yang benar?","(A) a = b
+(B) a = −b
+(C) a + b adalah ganjil
+(D) Kedua a dan b bilangan genap
+(E) Kedua a dan b bilangan ganjil",(C) a + b adalah ganjil,fungsi  ,37,34,mudah
+pk39,"4(x^2) − 9 = (px + t)(px − t)
+Pada persamaan diatas, nilai p dan t adalah konstan. Maka nilai p yang memenuhi persamaan adalah....","(A) 2
+(B) 3
+(C) 4
+(D) 9
+(E) 10",(A) 2,persamaan kuadrat,694,629,mudah
+pk40,Antara tahun 1497 dan 1500 Amerigo Vespucci melakukan dua kali perjalanan ke ‘Dunia Baru’. Perjalanan pertama memakan waktu 43 hari lebih lama daripada perjalanan kedua. Dan kedua perjalanan jika digabungkan memakan waktu 1003 hari. Berapa hari total perjalanan yang kedua?,"(A) 460
+(B) 480
+(C) 960
+(D) 520
+(E) 540",(B) 480 hari,SPLDV,196,100,sedang
+pk41,"Data L : {L ∈ R, L bilangan prima kurang dari 17}
+Data M : 0 < M ≤ 12 ; M ∈ Riil ; Diketahui P=Median L; Q= Rata-Rata M","(A) P > Q
+(B) P < Q
+(C) P = Q
+(D) P + Q = 0
+(E) Hubungan keduanya tidak dapat ditentukan",(B) P < Q,Statistika,687,609,mudah
+pk42,"Dari 750 partisipan rapat, 450 – nya adalah perempuan. 1/2 dari perempuan dan 1/4 dari laki – laki memiliki usia kurang dari 30 tahun. Jika satu partisipan secara acak dipilih untuk memenagkan hadiah. Berapa probabilitas terpilihnya partisipan yang berusia kurang dari 30 tahun?","(A) 1/8
+(B) 1/3
+(C) 3/8
+(D) 2/5
+(E) 3/4",(D) 2/5,peluang,316,216,sedang
+pk43,"Garis K memiliki persamaan sebagai berikut :
+2x + 5y − 20 = 0 Persamaan garis baru yang tegak lurus K dan tepat berpotongan di titik P(−2,7) adalah....","(A) 5x + 2y = −24
+(B) −5x + 2y = 24
+(C) 2x − 5y = 24
+(D) −2x − 5y = 24
+(E) −2x + 5y = 24",(B) −5x + 2y = 24,Persamaan Garis,88,48,sedang
+pk44,"Terdapat dua buah interval x dan y dimana keduanya adalah bilangan riil.
+(1) x adalah bilangan riil dimulai dari 1 tetapi kurang dari 6.
+(2) y adalah bilangan prima dimulai dari 2 dan kurang dari bilangan prima ganjil terbesar sebelum 23
+Berdasarkan keterangan diatas nilai x + y berada pada interval....","(A) 3 < x + y < 23
+(B) 2 < x + y ≤ 25
+(C) 3 ≤ x + y < 25
+(D) 3 ≤ x + y ≤ 25
+(E) 3 < x + y < 23",(C) 3 ≤ x + y < 25,pertidaksamaan linear satu variabel,673,286,sedang
+pk45,Persamaan kuadrat −2(x^2) + 4x − c = 0 memiliki dua akar riil yang berbeda. Hal ini menyebabkan kurva parabolik memotong sumbu x di dua titik yang berbeda. Maka nilai c yang memenuhi persamaan tersebut berada di....,"(A) c > 8
+(B) c > −8
+(C) c ≥ −2
+(D) c > −2
+(E) c < −2",(E) c < −2,persamaan kuadrat,457,402,mudah
+pk46,"7% dari a adalah 490 dan 1,5% dari b adalah 45. Maka nilai (2/7000)a - (1/9000)b adalah....","(A) 5/3
+(B) 3/5
+(C) 2/5
+(D) 5/2
+(E) 1/3",(A) 5/3,Operasi Bilangan ,886,587,sedang
+pk47,Tiga kurangnya dari pocong adalah kuntilanak. Sedangkan seperempat kuntilanak adalah pocong. Maka 2 pocong dan 3 kuntilanak ekuivalen dengan....,"(A) 14
+(B) −14
+(C) 10
+(D) −10
+(E) 0",(B) −14,SPLDV,512,273,sedang
+pk48,"Terdapat dua buah kurva parabolik yang saling bersinggungan titik puncaknya. Kedua kurva memiliki fungsi sebagai berikut :
+f(x) = −4(x^2) + bx + 3
+g(x) = −2(x^2) + 4x + 5
+P=f(-1) ; Q=g(-1)","(A) P > Q
+(B) P < Q
+(C) P = Q
+(D) P + Q = 0
+(E) Hubungan keduanya tidak dapat ditentukan",(A) P > Q,Fungsi kuadrat,209,192,mudah
+pk49,"Bilangan berikut yang habis dibagi 3, tetapi tidak habis dibagi 5 adalah....","(A) 12345
+(B) 13689
+(C) 14670
+(D) 15223
+(E) 20579",(B) 13689,Bilangan  ,461,449,mudah
+pk50,Kurva y = a(x^2) + 2x + 1 dengan a ≠ 0 memotong sumbu x di dua titik yang berbeda. Pernyataan dibawah ini yang benar adalah....,"(A) a < 1
+(B) 6a < 1
+(C) a > 1
+(D) 3a > 1
+(E) 3a > 2",(A) a < 1,Fungsi kuadrat,105,46,sedang
+pk51,"Kurva memiliki fungsi y = a(x^2) + c , a > 0 maka pernyataan yang tepat mengenai kurva adalah....","(A) Kurva terbuka keatas dan memotong sumbu x di dua titik
+(B) Kurva terbuka keatas dan memotong sumbu x di satu titik
+(C) Kurva terbuka keatas dan memotong sumbu y di dua titik
+(D) Kurva terbuka keatas dan memotong sumbu y di satu titik
+(E) Kurva tidak memotong di kedua sumbu",(D) kurva terbuka keatas dan memotong sumbu y di satu titik,Fungsi kuadrat,916,690,mudah
+pk52,Terdapat dua garis k dan l yang saling berpotongan. Keduanya memiliki persamaan berturut – turut yaitu 4x − 5y = 10 dan y = bx + 2. Maka titik potong dari garis l adalah....,"(A) (0,8/5) ; (2,0)
+(B) (8/5 , 0) ; (0,2)
+(C) (4,0); (2,0)
+(D) (4,0); (0,2)
+(E) (−4,0); (0,2)","(B) (8/5, 0) ; (0, 2)",persamaan garis,609,289,sedang
+pk53,"Diberikan sebuah sampel data seperti berikut :
+2x − 1, x, x − 4, x + 2
+Jika rata – rata dari data tersebut adalah 3 maka nilai median dan jangkauan berturut – turut adalah....","(A) 3 dan 2
+(B) 2 dan 3
+(C) 1 dan 3
+(D) 7 dan 8
+(E) 4 dan 6",(E) 4 dan 6,Statistika,337,43,sulit
+pk54,"Jika fungsi f dan g didefinisikan sebagai berikut :
+f(x) = x^2 − 3x + 2
+g(x) = x + 2
+Salah satu absis titik potong grafik fungsi f dan g adalah....","(A) 3
+(B) 2
+(C) 4
+(D) −1
+(E) 1",(C) 4,fungsi,527,473,mudah
+pk55,"Jika barisan 1,2, y, ... merupakan barisan geometri. Nilai 2 − (1/(y^2)) adalah....","(A) 31/16
+(B) 30/16
+(C) 33/16
+(D) 15/16
+(E) 18/16",(A) 31/16,barisan dan deret,92,82,mudah
+pk56,Banyaknya susunan huruf yang dapat dibentuk dari kata “KOKOROBET” adalah....,"(A) 30000
+(B) 30240
+(C) 30200
+(D) 31600
+(E) 32340",(B) 30240,kaidah pencacahan,937,698,mudah
+pk57,"Agar sistem persamaan linear
+ax + by − 2z = −4
+−x − by + cz = −2
+ax + 3y − cz = −1
+Memiliki penyelesaian x = 1, y =−1, dan z = 2, maka nilai dari a + b + c adalah....","(A) −1
+(B) 1
+(C) 3/2
+(D) 1/4
+(E) 4",(D) 1/4,SPLTV,941,242,sulit
+pk58,"Garis k dan l memiliki persamaan garis y =ax + b. Keduanya berturut – turut melewati titik A(−1,2) dan B(2, −3). Maka nilai dari a + b adalah....","(A) 1
+(B) 2
+(C) − 4/3
+(D) 4/3
+(E) 10/3",(C) − 4/3,persamaan garis,620,94,sulit
+pk59,"Diketahui bahwa x1 dan x2 memenuhi persamaan kuadrat x^2 − 6x + 7 = 0 dengan x1 > x2.
+P=(x1+x2)^2
+Q=(x1)^2 + (x2)^2
+Berdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?","(A) P > Q
+(B) P < Q
+(C) P = Q
+(D) 2P < Q
+(E) Hubungan keduanya tidak dapat ditentukan",(A) P > Q,Persamaan Kuadrat,574,518,mudah
+pk60,"Jika ((f ∘ g)^-1 ∘ f)(x) = 3x − 8, maka g(5) =....","(A) 2
+(B) 3
+(C) 4
+(D) 5
+(E) 6",(C) 4,Fungsi Komposisi dan invers,664,295,sedang
