@@ -29,4 +29,4 @@ AkuMau is an online learning application to prepare for UTBK-SNBT. This applicat
 * Docker for containerization of the application
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
