@@ -1,0 +1,371 @@
+id_soal,soal,jawaban,jawaban_benar,materi,jumlah_dikerjakan,jumlah_benar,kategori_soal
+pu01,Salah satu syarat diterima sebagai PNS adalah lulus tes CPNS. Ray adalah salah satu peserta yang akan mengikuti tes CPNS. Kesimpulan yang mungkin benar adalah...,"(A) Ray diterima sebagai PNS
+(B) Ray mampu mengerjakan tes PNS
+(C) Ray belum tentu diterima sebagai PNS
+(D) Ray tidak diterima sebagai PNS
+(E) Ray tidak lulus dalam tes PNS",(C) Ray belum tentu diterima sebagai PNS,Logika Preposisi,819,792,1
+pu02,"Jika L = 6
+TORGO JGXO ZOMG JOZGSHGN JAG ...","(A) KTGS
+(B) ZOMG
+(C) JAG
+(D) ROSG
+(E) ZAPAN",(B) ROSG,Pola Barisan,135,69,2
+pu03,"Industri penerbangan Indonesia diprediksi akan terus meningkat. Perkembangan industri penerbangan di Indonesia terjadi seiring dengan banyaknya maskapai penerbangan luar yang masuk ke Indonesia yang menambah ramainya pasar penerbangan domestik dan juga pertumbuhan ekonomi serta peningkatan daya beli masyarakat Indonesia. Semakin terjangkaunya harga tiket dan makin bervariasinya pilihan yang diberikan oleh setiap maskapai penerbangan yang ada membuat masyarakan lebih memilih transportasi udara ini sebagai alat transportasinya. Hal ini membuat semakin meningkatnya permintaan akan pasar domestik yang mengakibatkan banyak maskapai penerbangan domestik dapat diamati pada tabel di bawah ini, khususnya selama tahun 2008 - 2012.
+
+Pernyataan yang benar sesuai dengan bacaan di atas adalah ...","(A) Industri penerbangan Indonesia dipastikan akan terus meningkat
+(B) Ramainya pasar penerbangan domestik terjadi karena tingginya mobilisasi masyarakat
+(C) Ramainya pasar penerbangan domestik terjadi karena maskapai penerbangan yang menambah jumlah armadanya
+(D) Variasi pilihan penerbangan turut memengaruhi peningkatan penggunaan transportasi udara
+(E) setiap tahunnya, maskapai penerbangan terus berlomba-lomba menambah armadanya",(D) Variasi pilihan penerbangan turut memengaruhi peningkatan penggunaan transportasi udara,Analisis Argumen,809,81,3
+pu04,"Industri penerbangan Indonesia diprediksi akan terus meningkat. Perkembangan industri penerbangan di Indonesia terjadi seiring dengan banyaknya maskapai penerbangan luar yang masuk ke Indonesia yang menambah ramainya pasar penerbangan domestik dan juga pertumbuhan ekonomi serta peningkatan daya beli masyarakat Indonesia. Semakin terjangkaunya harga tiket dan makin bervariasinya pilihan yang diberikan oleh setiap maskapai penerbangan yang ada membuat masyarakan lebih memilih transportasi udara ini sebagai alat transportasinya. Hal ini membuat semakin meningkatnya permintaan akan pasar domestik yang mengakibatkan banyak maskapai penerbangan domestik dapat diamati pada tabel di bawah ini, khususnya selama tahun 2008 - 2012.
+
+Berdasarkan bacaan di atas, jika harga tiket mengalami kenaikan meskipun pilihan penerbangan semakin banyak, maka ...","(A) Penerbangan domestik akan tetap meningkat karena daya beli masyarakat Indonesia meningkat
+(B) Akan ada penurunan jumlah penerbangan karena harga tiket menjadi pertimbangan masyarakat
+(C) Masyarakat akan lebih banyak melakukanpenerbangan mancanegara karena yang meningkat hanya tiket domestik
+(D) Maskapai penerbangan luar negeri akan dibatasi karena minat masyarakat terhadap maskapai tersebut akan menurun
+(E) Pendapatan maskapai penerbangan akan meningkat meskipun terjadi penurunan jumlah penumpang",(B) Akan ada penurunan jumlah penerbangan karena harga tiket menjadi pertimbangan masyarakat,Analisis Argumen,437,163,3
+pu05,Semua mawar adalah bunga. Beberapa bunga berduri. ...,"(A) Semua mawar berduri
+(B) Semua bunga berduri
+(C) Sebagian mawar berduri
+(D) Sebagian mawar tidak berduri
+(E) Sebagian yang berduri bukan mawar",(C) Sebagian mawar berduri,Logika Preposisi,878,591,2
+pu06,"Q, E, N, G, K, I, ...","(A) H
+(B) J
+(C) L
+(D) M
+(E) N",(A) H,Pola Barisan,365,109,3
+pu07,"Jakarta, KOMPAS.com - Badan Pusat Statistik (BPS) melaporkan, produksi domestik bruto (PDB) atau pertumbuhan ekonomi Indonesia selama tahun 2017 mencapai 5.07 persen. Angka ini, menurut BPS merupakan angka pertumbuhan ekonomi tertinggi sejak tahun 2014 silam. 
+
+Berdasarkan paragraf diatas, manakah kesimpulan yang paling tepat? ","(A) Pertumbuhan ekonomi tahun 2017 tertinggi dibandingkan tahun sebelumnya
+(B) Sebelum tahun 2014 pertumbuhan ekonomi dibawah tahun 2017
+(C) Tahun 2014 adalah pertumbuhan ekonomi terendah
+(D) Dari tahun 2014 sampai tahun 2017, pertumbuhan tertinggi terjadi di tahun 2017
+(E) Sebelum tahun 2017 tidak ada persentase pertumbuhan ekonomi yang melebihi tahun 2017","(D) Dari tahun 2014 sampai tahun 2017, pertumbuhan tertinggi terjadi di tahun 2017",Analisis Argumen,770,99,3
+pu08,Semua ban mobil berwarna hitam. Sebagian mobil produksi Jepang.,"(A) Sebagian produksi Jepang berwarna hitam
+(B) Sebagian ban produksi Jepang
+(C) Semua ban produksi Jepang
+(D) Sebagian yang berwarna hitam adalah ban mobil
+(E) Tidak ada kesimpulan yang benar",(E) Tidak ada kesimpulan yang benar,Logika Preposisi,552,67,3
+pu09,"Jika MAKANAN = TGPEQCO, maka SEPIRING = ...","(A) HPLVNVLA
+(B) ALVNVLPH
+(C) ALQVNLQH
+(D) MBILHWAK
+(E) BHMLSKEW",(B) ALVNVLPH,Pola Barisan,786,112,3
+pu10,"Hasil survei yang dilakukan pada tahun 2016 menunjukkan bahwa minat baca anak-anak di Kota X tergolong rendah. Salah satu penyebab minat baca yang rendah adalah sulitnya akses pada buku. Penyebab lainnya adalah buku yang tersedia untuk anak-anak tidak menarik. Saat diberikan buku yang menarik, ternyata anak-anak dengan senang hati membaca. Buku yang menarik untuk anak-anak biasanya memiliki warna cerah, menyajikan gambar, dan berbentuk cerita. Saat ini, program yang dilakukan pemerintah kota belum cukup mampu meningkatkan minat baca anak karena belum bisa melibatkan orang tua. Hambatan dalam melibatkan orang tua terjadi karena sebagian besar sosialisasi hanya diselenggarakan di sekolah.
+
+Manakah informasi berikut yang dapat memperkuat pernyataan “Penyebab minat baca anak - anak Kota X yang rendah adalah akses pada buku yang sulit”?","(A) Anak-anak lebih senang melakukan aktivitas di luar rumah dibandingkan membaca.
+(B) Jumlah kunjungan yang dilakukan oleh anak- anak ke perpustakaan tergantung pada keterlibatan orang tua.
+(C) Beberapa anak yang suka membaca tidak memiliki akses pada fasilitas yang menyediakan buku.
+(D) Anak yang tinggal jauh dari fasilitas yang menyediakan buku cenderung enggan membaca.
+(E) Banyak anak tidak suka membaca meskipun di rumahnya tersedia banyak buku.",(C) Beberapa anak yang suka membaca tidak memiliki akses pada fasilitas yang menyediakan buku.,Analisis Argumen,741,466,2
+pu11,Semua pekerja harus menggunakan topi pengaman. Ada pekerja yang menggunakan sarung tangan.,"(A) ada pekerja tidak menggunakan topi pengaman
+(B) semua pekerja tidak menggunakan sarung tangan
+(C) ada pekerja yang menggunakan topi pengaman dan sarung tangan
+(D) ada pekerja yang tidak menggunakan topi pengaman dan menggunakan sarung tangan
+(E) ada pekerja yang tidak menggunakan topi pengaman dan tidak menggunakan sarung tangan",(C) ada pekerja yang menggunakan topi pengaman dan sarung tangan,Logika Preposisi,789,625,1
+pu12,"Beberapa dodol berasa durian. Semua makanan yang berasa durian banyak disukai. Semua dodol harganya terjangkau. Maka, kesimpulannya adalah, kecuali ...","(A) Beberapa makanan yang harganya terjangkau adalah dodol
+(B) Beberapa makanan yang banyak disukai adalah dodol
+(C) Beberapa makanan yang banyak disukai harganya terjangkau
+(D) Semua dodol adalah makanan yang banyak disukai
+(E) Beberapa makanan yang berasa durian harganya terjangkau",(D) Semua dodol adalah makanan yang banyak disukai,Logika Preposisi,906,60,3
+pu13,"Kwwkwkkk = deh mulu
+Wkkwwkwk= Jangan tau
+Kwwkwkkw = Ketawa mulu
+Apa arti jangan ketawa?","(A) Wkwkwkwk
+(B) Wkkwwkwk
+(C) Kwwkwkwk
+(D) Kwwkwkwk
+(E) Tidak ada jawaban yang tepat",(B) Wkkwwkwk,Pola Barisan,348,103,3
+pu14,"Harga sewa di enam blok perumahan berbeda. Rumah di Blok B lebih mahal daripada di Blok A, tetapi lebih murah daripada di Blok E. Rumah di Blok F lebih murah daripada di Blok A dan di Blok C. Rumah di Blok D lebih mahal daripada di Blok F, tetapi lebih murah daripada di Blok C. Harga rumah di Blok C lebih murah daripada di Blok A.
+Rumah yang harga sewanya termurah kedua adalah rumah di blok ....","(A) A
+(B) B
+(C) C
+(D) D
+(E) E",(D) D,Logika Analitik,928,317,3
+pu15,"Setelah tahun 2018 berakhir dengan banyak membawa perubahan dalam dunia teknologi dan digital, tahun 2019 dimulai dengan banyak perkembangan baru. Hasil data digital Indonesia 2019 menunjukkan adanya perubahan signifikan di awal tahun 2019 ini, jika dibandingkan dengan tahun 2018. Dengan total populasi masyarakat Indonesia pada Januari 2019 diketahui sebanyak 268,2 juta jiwa. Akan tetapi, angka pengguna layanan operator ponsel diketahui ada sebanyak 355,5 juta pengguna. Hal ini membuat presentase pengguna ponsel lebih besar 133% dari jumlah asli masyarakat Indonesia. Dapat disimpulkan bahwa sebagian masyarakat Indonesia memiliki lebih dari satu buah ponsel. Bahkan pada awal tahun 2019, jumlah pengguna aktif internet di Indonesia diketahui sebanyak 150 juta jiwa atau sekitar 56% dari total jumlah penduduk Indonesia. Dan sekitar 142,8 juta pengguna internet diketahui merupakan pengguna internet ponsel aktif. Hal ini mengakibatkan teknologi komunikasi berkembang lebih pesat dari sebelumnya.
+
+Berdasarkan paragraf 1, manakah simpulan di bawah ini yang Benar?","(A) Sebagian pengguna layanan operator adalah kalangan menengah keatas.
+(B) Semua pengguna internet tidak gagap teknologi
+(C) Sebagian masyarakat pengguna layanan operator dan internet cenderung meningkat
+(D) Sebagian masyarakat pengguna layanan internet aktif memiliki lebih dari satu ponsel
+(E) Sebagian pengguna internet yang gagap teknologi tidak memiliki telepon canggih",(D) Sebagian masyarakat pengguna layanan internet aktif memiliki lebih dari satu ponsel,Analisis Argumen,422,221,2
+pu16,Ketika hujan semua kegiatan olahraga diadakan di Gedung serbaguna sekolah Emi berlatih pencak silat di Gedung serbaguna sekolah. Kesimpulan:,"(A) Emi berlatih pencak silat di Ketika Gedung serbaguna tidak dipakai
+(B) Gedung serbaguna sekolah hanya digunakan untuk kegiatan olahraga pencak silat
+(C) Ketika hujan, Emi berlatih pencak silat
+(D) Ketika tidak hujan, Emi berlatih pencak silat
+(E) Ketika tidak hujan, Gedung serbaguna digunakan oleh Emi","(C) Ketika hujan, Emi berlatih pencak silat",Logika Preposisi,73,69,1
+pu17,2 3 5 5 8 5 13 21 ... ...,"(A) 34 dan 55
+(B) 34 dan 5
+(C) 5 dan 55
+(D) 5 dan 34
+(E) 55 dan 34",(D) 5 dan 34,Pola Barisan,869,754,1
+pu18,X 23 8 42 27 61 Y,"(A) -11 dan 80
+(B) -11 dan 46
+(C) 38 dan 76
+(D) 15 dan 80
+(E) 15 dan 95",(B) -11 dan 46,Pola Barisan,102,4,3
+pu19,"Dalam acara reuni kampus Psikologi diadakan ramah tanah. Acara sambutan ketua panitia dilaksanakan sebelum doa. Pertunjukan band mengalokasikan waktu paling banyak. Ketua panitia harus meninggalkan acara sebelum band dimulai. Sedangkan acara penghargaan guru besar diselenggarakan sebelum band selesai agar undangan tidak meninggalkan ruangan. Doa dibacakan setelah ramah tamah.
+Susunan acara reuni kampus Psikologi berdasarkan uraian di atas adalah","(A) Penghargaan-band-doa-sambutan-ramah tamah 
+(B) Sambutan- penghargaan-band-ramah tamah-doa
+(C) Sambuatan-doa-penghargaan-band-ramah tamah
+(D) Penghargaan-sambutan-band-doa-ramah tamah
+(E) Tidak ada pilihan jawaban yang benar",(B) Sambutan- penghargaan-band-ramah tamah-doa,Logika Analitik,498,244,2
+pu20,Jika nasi goreng = jwoe cknajc. Maka Bubur Ayam =,"(A) Yoyon wuwi
+(B) Wuwi yoyon
+(C) Xoxon wuwi
+(D) Wuwi xoxon
+(E) Yoyon xoxo",(C) Xoxon wuwi,Pola Barisan,465,86,3
+pu21,"Sebuah perusahaan konveksi memerlukan 130 m kain untuk membuat 40 potong baju. Apabila tersedia 312 m kain, maka dapat dibuat baju sebanyak ... potong","(A) 92
+(B) 94
+(C) 96
+(D) 98
+(E) 100",(C) 96,Aritmatika,634,17,3
+pu22,"Sebuah wadah berbentuk silinder dan berisi air 1/5 nya. Jika ditambah dengan 6 liter air, temyata wadah tersebut terisi 1/2 nya. Berapa liter kapasitas wadah tersebut ?","(A) 24 
+(B) 15
+(C) 22
+(D) 18
+(E) 20",(E) 20,Aritmatika,713,345,2
+pu23,"R, S, T, U, V adalah lima siswa yang telah menempuh Ujian Nasional. Berikut ini adalah hasil ujian kelima siswa.
+1) Nilai R lebih tinggi dari nilai S.
+2) Nilai T tertinggi.
+3) Nilai U lebih tinggi dari nilai R.
+4) Nilai V lebih rendah dari nilai R, tetapi lebih tinggi dari nilai S.
+Dari pernyataan-pernyataan di atas, urutan dari nilai yang terendah ialah ....","(A) R,S,U,V,T
+(B) S,R,U,V,T
+(C) S,V,U,R,T
+(D) S,V,R,U,T
+(E) V,R,U,S,T","(D) S,V,R,U,T",Logika Analitik,529,341,2
+pu24,"Industri tekstil dan garmen saat ini menjadi industri strategis bagi perekonomian negara mengingat Indonesia memiliki 250 juta penduduk. Industri ini merupakan sektor manufaktur terbesar ketiga dan menjadi salah satu industri yang paling banyak menyerap tenaga kerja. Pada tahun 2017, ekspor tekstil dan produk tekstil Indonesia mencapai US$12,4 miliar yang mana melebihi target Asosiasi Pertekstilan Indonesia (API) sebesar US$11,8 miliar. 
+
+Berdasarkan paragraf 1, manakah di bawah ini pernyataan yang BENAR?","(A) Industri tekstil dan garmen menyerap 250 juta tenaga kerja.
+(B) Industri tekstil termasuk tiga besar sektor manufaktur Indonesia.
+(C) Industri tekstil berhasil mengekspor produk senilai USS11,8 miliar.
+(D) Industri tekstil merupakan kebutuhan pokok seluruh rakyat Indonesia.
+(E) Industri tekstil tanah air dipantau oleh Asosiasi Pertekstilan Indonesia (API).",(B) Industri tekstil termasuk tiga besar sektor manufaktur Indonesia.,Analisis Argumen,235,103,2
+pu25,"Industri tekstil dan garmen saat ini menjadi industri strategis bagi perekonomian negara mengingat Indonesia memiliki 250 juta penduduk. Industri ini merupakan sektor manufaktur terbesar ketiga dan menjadi salah satu industri yang paling banyak menyerap tenaga kerja. Pada tahun 2017, ekspor tekstil dan produk tekstil Indonesia mencapai US$12,4 miliar yang mana melebihi target Asosiasi Pertekstilan Indonesia (API) sebesar US$11,8 miliar. 
+
+Berdasarkan paragraf 1, jika penduduk Indonesia berjumlah 250 juta jiwa, manakah dibawah ini simpulan yang BENAR?","(A) Setiap penduduk dapat memproduksi garmen.
+(B) Setiap penduduk membutuhkan produk pakaian jadi.
+(C) Setiap penduduk dapat memulai usaha di sektor manufaktur.
+(D) Setiap penduduk harus bekerja di industri tekstil dan garmen.
+(E) Setiap penduduk dapat menjadi anggota Asosiasi Pertekstilan Indonesia (API).",(B) Setiap penduduk membutuhkan produk pakaian jadi.,Analisis Argumen,730,514,1
+pu26,Sebuah bilangan terdiri dari empat buah angka yang berbeda. Jumlah keempat angka adalah 12. Angka pertama ditambah angka ketiga sama dengan angka keempat dikurangi angka kedua. Angka kedua sama dengan selisih angka pertama dan ketiga. Angka keempat dibagi angka ketiga sama dengan angka pertama dibagi angka kedua. Bilangan tersebut adalah...,"(A) 1236
+(B) 1326
+(C) 1632
+(D) 2136
+(E) 2316",(D) 2136,Aritmatika,105,24,3
+pu27,"Sekolah Populer memiliki sebuah asrama
+berisi sejumlah kamar. Jika setiap kamar diisi
+dua orang siswa, akan ada dua belas siswa
+yang tidak memperoleh kamar. Jika setiap
+kamar diisi oleh tiga orang siswa akan ada dua
+kamar yang kosong. Berapa banyak kamar
+yang tersedia di asrama Sekolah Populer?","(A) 16
+(B) 18
+(C) 20
+(D) 22
+(E) 24",(B) 18,Aritmatika,690,541,1
+pu28,"21, 30, 22, 22, 28, 24, 23, 26, 26, 24, ..., ...","(A) 26, 24
+(B) 24, 26
+(C) 24, 28
+(D) 26, 28
+(E) 28, 30","(C) 24, 28",Pola Barisan,334,86,3
+pu29,"1, 3, 4, 7, 11, 18, ...","(A) 25
+(B) 26
+(C) 27
+(D) 28
+(E) 29",(E) 29,Pola Barisan,935,412,2
+pu30,"Sepuluh anak membentuk kelompok bermain yang masing-masing terdiri lima anak. Rata-rata usia kelompok pertama adalah 6 tahun, dan kelompok kedua adalah 6,4 tahun. Jika satu anak dari masing-masing kelompok ditukarkan, maka rata-rata usia kedua kelompok sama. Berapa tahun selisih usia kedua anak yang di pertukarkan?","(A) 2
+(B) 1
+(C) 0,5
+(D) 0,4
+(E) 0,1",(B) 1,Logika Analitik,58,46,1
+pu31,"Penularan virus corona terus terjadi di tengah masyarakat. Jumlah penambahan kasus Covid-19 di Indonesia pun terus bergerak secara fluktuatif. Berdasarkan data yang dihimpun hingga Sabtu (16/5/2020) pukul 12.00 WIB, ada 529 kasus baru Covid-19 dalam 24 jam terakhir. Penambahan tersebut menjadikan total 17.025 kasus Covid-19 di seluruh Indonesia. Hal ini diungkapkan juru bicara pemerintah untuk penanganan virus corona, Achmad Yurianto, dalam konferensi pers dari Graha Badan Nasional Penanggulangan Bencana (BNPB). ""Hasil positif yang kita dapatkan adalah 17.025 orang,"" ujar Achmad Yurianto, Sabtu (16/5). Bagaimanapun, Yuri mengungkapkan harapan dengan semakin banyaknya pasien yang sembuh setelah dinyatakan positif virus corona. Hari ini, tercatat ada penambahan 108 pasien Covid-19 menjalani dua kali pemeriksaan dengan metode polymerase chain reaction (PCR) menunjukkan hasil negatif virus corona.
+
+Berdasarkan paragraf diatas, manakah di bawah ini pernyataan yang MUNGKIN BENAR?","(A) Masyarakat Indonesia berharap semakin banyaknya pasien yang sembuh
+(B) Achmad Yurianto selaku jubir pemerintah menyampaikan perkembangan virus corona di Indonesia
+(C) Terjadi penambahan kasus positif sebanyak 17.025 kasus per tanggal 16 Mei 2020
+(D) Metode polymerase chain reaction (PCR) digunakan oleh banyak negara
+(E) Jumlah kasus corona selama bulan Mei mengalami penurunan",(B) Achmad Yurianto selaku jubir pemerintah menyampaikan perkembangan virus corona di Indonesia,Analisis Argumen,676,228,3
+pu32,"Berapakah angka yang tepat?
+17 (102) 12
+14 (...) 11","(A) 44
+(B) 62
+(C) 77
+(D) 83
+(E) 92",(C) 77,Aritmatika,50,20,2
+pu33,Pak Nyoman memperoleh r rupiah setiap minggu dan membelanjakan b rupiah seminggu. Dalam berapa minggu ia akan memiliki uang Q rupiah?,"(A) r – b
+(B) D – Q
+(C) 2Q – D
+(D) Q/(r – b)
+(E) 1/s(d – Q)",(D) Q/(r – b),Aritmatika,407,406,1
+pu34,"Umur rata-rata hitung dari suatu kelompok yang terdiri dari guru dan dosen adalah 40 tahun. Jika umur rata-rata para guru adalah 35 tahun dan umur rata-rata para dosen adalah 50 tahun, maka perbandingan banyaknya guru dan banyaknya dosen adalah...","(A) 1 : 2
+(B) 2 : 1
+(C) 2 : 3
+(D) 3 : 2
+(E) 3 : 1",(A) 1 : 2,Logika Analitik,845,503,2
+pu35,"0, 10, 28, 54, 88, 130, ...","(A) 150
+(B) 164
+(C) 172
+(D) 180
+(E) 196",(D) 180,Pola Barisan,115,97,1
+pu36,Kesebelasan Persija menang atas Persebaya dengan skor 3-0. Kesebelasan Persib kalah atas Semen Padang dengan skor 1-2. Kesebelasan Semen Padang menang atas Persija dengan skor 2-0. Kesebelasan mana yang menjuarai kompetisi tersebut?,"(A) Persija dan Semen Padang seri
+(B) Persija
+(C) Persib
+(D) Semen Padang
+(E) Persebaya",(D) Semen Padang,Logika Analitik,508,433,1
+pu37,"Mobil A, B, dan C memiliki tangki bensin berkapasitas sama dan terisi penuh. Ketiga mobil tersebut menempuh perjalanan dengan tujuan yang berbeda-beda. Jarak yang ditempuh mobil A lebih jauh dari mobil C, tetapi tidak melebihi jarak tempuh mobil B. Setelah ketiga mobil tersebut tiba di tujuan sisa bensin ditangki mobil C lebih banyak daripada mobil A tetapi tidak melebihi mobil B. Manakah pernyataan yang benar?","(A) Mobil A paling irit bensin
+(B) Mobil B paling irit bensin
+(C) Mobil A lebih irit dari mobil B
+(D) Mobil A lebih irit dari mobil C
+(E) Mobil C lebih irit dari mobil B",(B) Mobil B paling irit bensin,Logika Analitik,47,18,3
+pu38,"Lima orang pedagang asongan menghitung hasil penjualan dalam satu hari. Pedagang III lebih banyak menjual dari pedagang IV, tetapi tidak melebihi pedagang I. Penjualan pedagang II sama dengan pedagang IV dan melebihi pedagang V. Pedagang mana yang hasil penjualannya terbanyak ?","(A) I
+(B) II
+(C) III
+(D) IV
+(E) V",(A) I,Logika Analitik,352,245,2
+pu39,"Beberapa negara di Timur Tengah termasuk Turki, Irak, dan Yordania, memberlakukan jam malam sepanjang liburan Idulfitri. Meski sebagian negara melakukan pelonggaran, namun kekhawatiran akan pandemi dan kejatuhan ekonomi tetap menghadang. Saudi Arabia, misalnya, tempat kota suci Mekah dan Madinah berada, dikunci sepenuhnya. Warga hanya diizinkan meninggalkan rumah mereka untuk membeli makanan dan obat-obatan. Iran, yang terus memerangi wabah paling mematikan itu di Timur Tengah, mengizinkan salat bersama di beberapa masjid tetapi membatalkan salat Idulfitri tahunan di Teheran yang dipimpin oleh Pemimpin Tertinggi, Ayatollah Ali Khamenei. Iran sendiri telah melaporkan lebih dari 130.000 kasus dan lebih dari 7.000 kematian.
+
+Berdasarkan paragraf diatas, jika Saudi Arabia memberikan kelonggaran kepada warganya, manakah di bawah ini pernyataan yang MUNGKIN BENAR?","(A) Warga Saudi Arabia tetap berada di
+rumah
+(B) Warga Saudi Arabia akan shalat idulfitri
+berjamaah di Masjid
+(C) Warga Saudi Arabia keluar rumah hanya
+untuk membeli obat-obatan
+(D) Warga Saudi Arabia dilarang keluar
+rumah
+(E) Kota suci Mekah dan Madinah dipenuhi
+oleh banyak orang di berbagai negara",(B) Warga Saudi Arabia akan shalat idulfitri berjamaah di Masjid,Analisis Argumen,378,10,3
+pu40,"Sekitar 2.000 umat muslim berkumpul untuk salat Idul Fitri pada sebuah kompleks olahraga di pinggiran Paris Levallois-Perret. Mereka mengambil jarak satu sama lain dan mengenakan masker. Menurut radio France-Info, mereka tidak melakukan tradisi berpelukan satu sama lainnya. Prancis mengizinkan layanan keagamaan untuk pertama kalinya sejak Maret, tetapi organisasi Muslim terkemuka Prancis, CFCM, menyarankan masjid-masjid tetap tutup pada hari Minggu (24/5/2020). Sedangkan di di negara Balkan, pembatasan untuk menghindari virus corona baru tetap diberlakukan seperti di Albania, Bosnia-Herzegovina dan Kosovo. Masjid-masjid telah dibuka kembali di Ibu Kota Bosnia, Sarajevo, tetapi para jamaah harus mengenakan masker dan mempraktikkan jarak sosial. Sedangkan orang-orang yang lebih tua disarankan salat di rumah.
+
+Berdasarkan paragraf diatas, manakah di bawah ini pernyataan yang BENAR?","(A) Umat muslim di Perancis melakukan shalat idulfitri di rumah
+(B) Ratusan umat muslim di Perancis melaksanakan shalat idulfitri di kompleks olahraga Paris Levallois-Perret
+(C) Sejak Maret Perancis mengizinkan layanan keagamaan untuk pertama kalinya
+(D) Di Negara Balkan hanya Albania yang melakukan pembatasan untuk menghindari virus corona
+(E) Masjid di Bosnia memperbolehkan semua kalangan usia untuk shalat idulfitri berjamaah",(C) Sejak Maret Perancis mengizinkan layanan keagamaan untuk pertama kalinya,Analisis Argumen,615,317,2
+pu41,"Anto menyukai pelajaran bahasa lnggris. Ia ingin melanjutkan sekolah di Australia. Brian, teman sekelas Anto, menyukai pelajaran bahasa lnggris. Kesimpulan mana yang benar...","(A) Anto dan Brian belajar bahasa lnggris bersama.
+(B) Anto dan Brian ingin melanjutkan sekolah di Australia.
+(C) Anto dan Brian menyukai sekolah di Australia.
+(D) Anto dan Brian belajar bahasa lnggris di Australia.
+(E) Anto dan Brian menyukai pelajaran bahasa Inggris",(E) Anto dan Brian menyukai pelajaran bahasa Inggris,Logika Preposisi,684,453,2
+pu42,"Sesuai dengan kesepakatan direktur dengan karyawan perusahaan “X”, karyawan mengundurkan diri dengan diberi pesangon atau perusahaan ditutup. Ternyata perusahaan ditutup. Kesimpulan mana yang benar...","(A) Perusahaan tidak memberi pesangon kepada karyawan.
+(B) Karyawan memilih perusahaan ditutup.
+(C) Sebagian karyawan diberi pesangon.
+(D) Direktur memberhentikan sebagian karyawan.
+(E) Sebagian karyawan tidak mau mengundurkan diri.",(A) Perusahaan tidak memberi pesangon kepada karyawan.,Logika Preposisi,201,44,3
+pu43,"Jika A + B + C = 6, maka H + K + L =?","(A) 10
+(B) 17
+(C) 24
+(D) 31
+(E) 35",(D) 31,Pola Barisan,307,12,3
+pu44,"Nilai yang diperoleh dari seorang siswa adalah sebagai berikut.
+Bahasa Indonesia : 86
+Bahasa Inggris : 79
+Matematika : 78
+Ekonomi : 88
+Sejarah : 86
+Berapa nilai mata pelajaran Sosiologi yang harus dicapai oleh siswa tersebut jika ia memiliki target nilai rata-rata sebesar 86?","(A) 100
+(B) 99
+(C) 98
+(D) 97
+(E) 96",(B) 99,Aritmatika,911,589,2
+pu45,"Seorang gadis mencatat waktu yang digunakan untuk berlatih biola. Untuk suatu minggu pada hari Senin ia berlatih selama 1 1⁄4 jam, Selasa 2 jam, Rabu 2 jam, Kamis 1 3⁄4 jam. berapa jamkah yang akan ia gunakan untuk berlatih untuk sisa hari (dalam seminggu) agar rata-rata waktu berlatih per hari adalah 90 menit?","(A) 1 1⁄2
+(B) 2
+(C) 2 1⁄2
+(D) 3
+(E) 3 1⁄2",(E) 3 1⁄2,Aritmatika,697,393,2
+pu46,"31, 30, 29, 19, 18, 17, 16, ...","(A) 9
+(B) 8
+(C) 7
+(D) 6
+(E) 5",(D) 6,Pola Barisan,556,340,2
+pu47,"7, 3, 14, 6, 21, 9,...","(A) 30
+(B) 28
+(C) 27
+(D) 25
+(E) 24",(B) 28,Pola Barisan,850,471,2
+pu48,"Jika p adalah bilangan habis dibagi 7 dan nilainya lebih besar dari 14 dan kurang dari 28, sedangkan q adalah bilangan ganjil di antara 23 dan 27, maka pernyataan yang paling tepat adalah ...","(A) p = q
+(B) p > q
+(C) p < q
+(D) 2p < q
+(E) 2q < p",(C) p < q,Aritmatika,603,37,3
+pu49,"Awan kelam tampaknya semakin menyelimuti industri peternakan unggas, terutama bagi para peternak mandiri. Pasalnya, sebulan sebelumnya, peternak ayam mandiri ini sempat protes ke pemerintah lantaran harga ayam di tingkat peternak ambruk sehingga peternak merugi. Tak heran apabila peternak resah dengan pelonggaran impor daging ayam itu. Perhimpunan Insan Perunggasan Rakyat Indonesia (Pinsar) menilai masuknya impor ayam berpotensi membuat penyerapan daging di peternak lokal terganggu. Namun, Dosen Universitas Indonesia Fithra Faisal Hastiadi mengatakan bahwa Indonesia terpaksa untuk meratifikasi ketentuan importasi daging ayam lantaran sudah kalah dalam Sidang Badan Penyelesaian Sengketa Organisasi Perdagangan Dunia (DSB WTO). Belum lagi, jika negara-negara lain melakukan retaliasi dengan cara menyulitkan ekspor asal Indonesia masuk ke negara-negara bersangkutan. Tentu ini akan memengaruhi kinerja neraca perdagangan Indonesia yang kondisinya saat ini masih defisit.
+
+Berdasarkan paragraf diatas, manakah di bawah ini pernyataan yang BENAR?","(A) Terdapat beberapa negara yang melakukan retaliasi dengan cara menyulitkan ekspor asal Indonesia masuk ke negara-negara bersangkutan 
+(B) Peternak ayam merugi karena harga ayam di pasaran ambruk yang disebabkan oleh kekalahan Indonesia terhadap Brasil
+(C) Kinerja neraca perdagangan ditentukan oleh retaliasi terhadap ekspor yang menyulitkan ekspor asal Indonesia ke beberapa negara
+(D) Retaliasi yang dilakukan oleh beberapa negara terhadap Indonesia memengaruhi kinerja neraca perdagangan Indonesia
+(E) Para peternak ayam mandiri mengalami kerugian",(E) Para peternak ayam mandiri mengalami kerugian,Analisis Argumen,296,24,3
+pu50,"Awan kelam tampaknya semakin menyelimuti industri peternakan unggas, terutama bagi para peternak mandiri. Pasalnya, sebulan sebelumnya, peternak ayam mandiri ini sempat protes ke pemerintah lantaran harga ayam di tingkat peternak ambruk sehingga peternak merugi. Tak heran apabila peternak resah dengan pelonggaran impor daging ayam itu. Perhimpunan Insan Perunggasan Rakyat Indonesia (Pinsar) menilai masuknya impor ayam berpotensi membuat penyerapan daging di peternak lokal terganggu. Namun, Dosen Universitas Indonesia Fithra Faisal Hastiadi mengatakan bahwa Indonesia terpaksa untuk meratifikasi ketentuan importasi daging ayam lantaran sudah kalah dalam Sidang Badan Penyelesaian Sengketa Organisasi Perdagangan Dunia (DSB WTO). Belum lagi, jika negara-negara lain melakukan retaliasi dengan cara menyulitkan ekspor asal Indonesia masuk ke negara-negara bersangkutan. Tentu ini akan memengaruhi kinerja neraca perdagangan Indonesia yang kondisinya saat ini masih defisit.
+
+Berdasarkan paragraf diatas, apabila kinerja neraca perdagangan Indonesia tidak dipengaruhi oleh sistem retaliasi yang dilakukan oleh negara-negara lain dengan cara menyulitkan ekspor asal Indonesia ke negara-negara bersangkutan, manakah di bawah ini simpulan yang PALING MUNGKIN benar?","(A) Kondisi kinerja neraca perdagangan tidak mengalami defisit
+(B) Peternak ayam mandiri tidak protes ke pemerintah karena harga ayam di tingkat peternak tidak ambruk
+(C) Peternak tidak resah dengan pelonggaran impor daging ayam
+(D) Awan kelam mungkin masih menyelimuti industri peternakan unggas di Indonesia
+(E) Kondisi penyerapan daging ayam di peternak lokal/mandiri stabil",(D) Awan kelam mungkin masih menyelimuti industri peternakan unggas di Indonesia,Analisis Argumen,480,441,1
+pu51,"Apabila sudah siap panen, mangga akan terasa empuk jika ditekan; kulitnya berwarna hijau muda; dan jika dikupas akan tercium aroma wangi. Hal-hal tersebut membuat harga jual mangga semakin tinggi.
+Jika buah mangga terasa keras saat ditekan, kulitnya berwarna hijau tua, dan belum tercium aroma wangi, manakah simpulan yang benar?","(A) Buah Mangga sudah siap dijual
+(B) Buah Mangga terasa enak
+(C) Buah Mangga belum siap panen
+(D) Buah Mangga murah harganya
+(E) Buah mangga tidak terasa enak",C) Buah Mangga belum siap panen,Logika Preposisi,587,227,3
+pu52,"Dalam beberapa bulan terakhir diberlakukan syarat bagi penumpang kereta api untuk menunjukkan tiket, KTP, dan surat keterangan sehat kepada petugas stasiun. Riki telah membeli tiket kereta api dan merasa dirinya sehat.
+Simpulan berdasarkan informasi dalam teks tersebut adalah Riki dapat melakukan perjalanan dengan menggunakan kereta api.
+Manakah pernyataan berikut yang menggambarkan kualitas simpulan tersebut?","(A) Simpulan tersebut pasti benar
+(B) Simpulan tersebut mungkin benar
+(C) Simpulan tersebut pasti salah
+(D) Simpulan tidak relevan dengan informasi yang diberikan
+(E) Simpulan tidak dapat dinilai karena informasi tidak cukup",(E) Simpulan tidak dapat dinilai karena informasi tidak cukup,Logika Preposisi,839,74,3
+pu53,"Anto dan Iwan adalah dua orang juru tulis yang dapat menyelesaikan naskah proposal bersama-sama dalam waktu dua jam. Jika naskah terseut dikerjakan sendiri oleh Anto maka akan selesai tiga jam lebih lama bila dibandingkan dengan bila dikerjakan sendiri oleh Iwan. Bila Anto dan Iwan masing-masing ingin bekerja sendiri-sendiri untuk menyelesaikan naskah tersebut, maka jumlah jam yang dibutuhkan masing-masing adalah.... jam","(A) 4 dan 7
+(B) 3 dan 6
+(C) 2 dan 4
+(D) 1 dan 4
+(E) 1 dan 2",(B) 3 dan 6,Aritmatika,431,50,3
+pu54,"Dua kali bilangan pertama ditambah empat
+kali bilangan kedua akan menghasilkan 40.
+Bila bilangan pertama dua kali lebih banyak
+dari bilangan kedua, berapakah besarnya
+bilangan pertama?","(A) 14
+(B) 12
+(C) 10
+(D) 8
+(E) 6",(C) 10,Aritmatika,305,23,3
+pu55,"Berikut adalah beberapa kata yang diterjemahkan dari bahasa buatan.
+* etherliuth berarti planet aves
+* sieszether berarti aves langka
+* sieszopas berarti tumbuhan langka
+Kata apakah yang mungkin berarti “satelit planet”?","(A) etheropaz
+(B) liuthsiesz
+(C) liuthceros
+(D) cerosliuth
+(E) sieszliuth",(C) liuthceros,Pola Barisan,897,825,1
+pu56,"Berikut adalah beberapa kata yang diterjemahkan dari bahasa buatan.
+• moreschloe berarti rumah burung
+• beelmores berarti burung hitam
+• beelvotag berarti langit hitam
+Kata apakah yang mungkin berarti “rumah hantu”?","(A) moreshunde
+(B) beelquack
+(C) chloehunde
+(D) clakchloe
+(E) beelchloe",(D) clakchloe,Pola Barisan,932,622,2
+pu57,"Sebuah penelitian menunjukkan bahwa makanan manis dapat membantu menstabilkan suasana hati, menyebabkan kebahagiaan, dan mencegah depresi karena makanan manis memicu otak melepaskan hormone serotonin dan dopamine. Penelitian terbaru menunjukkan bahwa pengidap diabetes masih menikmati makanan manis selama tidak mengandung pemanis buatan.
+Manakah simpulan yang PALING DIDUKUNG oleh bacaan tersebut?","(A) Psikolog menyarankan klien yang mengalami rasa sedih berlebihan untuk mengonsumsi buah-buahan yang manis
+(B) Orang yang mengidap diabetes tidak diperbolehkan mengonsumsi buah-buahan yang manis
+(C) Gula merupakan makanan yang paling cepat merangsang hormone dopamine dan serotonin
+(D) Banyak penderita diabtes merasa tidak Bahagia karena tidak dapat mengonsumsi makanan manis
+(E) Penderita diabetes memiliki hormone dopamine dan serotonin yang tinggi",(A) Psikolog menyarankan klien yang mengalami rasa sedih berlebihan untuk mengonsumsi buah-buahan yang manis,Logika Preposisi,234,159,2
+pu58,"Pada tahun 2002 usia seorang anak sama dengan seperempat usia ibunya (dalam tahun). Jika pada tahun 2006 usia anak tersebut sepertiga usia ibunya, maka anak tersebut sebenarnya lahir pada tahun....","(A) 1988
+(B) 1990
+(C) 1992
+(D) 1994
+(E) 1996",(D) 1994,Aritmatika,449,109,3
+pu59,"10, 30, 32, 16, 48, 50, ...","(A) 58
+(B) 25
+(C) 32
+(D) 18
+(E) 16",(B) 25,Aritmatika,874,601,2
+pu60,"Seorang siswa mengikuti Quiz dan tidak dapat menjawab 3 pertanyaan. Jika siswa tersebut mendapat skor 85 %, maka banyaknya soal adalah....","(A) 18
+(B) 45
+(C) 20
+(D) 100
+(E) 70",(C) 20,Aritmatika,799,132,3
