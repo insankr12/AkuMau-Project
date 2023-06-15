@@ -13,16 +13,45 @@ AkuMau is an online learning application to prepare for UTBK-SNBT. This applicat
 (pic)
 
 ## Workflow
-1. a
-2. a
-3. a
-4. a
-5. a
-6. a
-7. a
-8. a
-9. a
-10. a
+
+1. **User Registration and Authentication**
+   - Users can register and log in using email/password or social media accounts (Google, Facebook).
+   - Firebase Authentication handles user authentication.
+
+2. **User Profile Setup**
+   - Users set up their profile, including basic information and preferences.
+   - User profile data is stored in Firebase Firestore.
+
+3. **Browsing and Searching Courses**
+   - Users can browse and search for courses by category or topic.
+   - Mobile app (Kotlin) connects to the server-side API.
+
+4. **Enrolling in Courses**
+   - Users can enroll in courses and track their progress.
+   - Enrollments are stored in Firebase Firestore.
+
+5. **Course Content and Learning Materials**
+   - Users access lessons, videos, quizzes, and interactive materials.
+   - TensorFlow handles machine learning tasks.
+
+6. **Tracking Progress and Achievements**
+   - Users track course progress, quiz scores, and earn achievements.
+
+7. **Cloud Storage and Content Management**
+   - Files and resources are stored in Google Cloud Storage.
+   - Google Cloud App Engine handles cloud infrastructure.
+
+8. **Server-side APIs and Data Management**
+   - Node.js and Express.js provide server-side APIs.
+   - CloudSQL (MySQL) stores course and user data.
+
+9. **Deployment and Scaling**
+    - App deployed on Google Cloud Platform (App Engine).
+    - Docker enables containerization.
+
+10. **Monitoring**
+    - Google Cloud Platform provides monitoring and analytics tools.
+
 
 ## Technology Stack
 
