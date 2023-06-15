@@ -102,7 +102,18 @@ To set up authentication and authorization using Firebase:
 - Test the authentication and authorization flows to ensure they function as intended.
 - Monitor and manage user authentication and authorization through the Firebase console or APIs.
 
-### 7. Docker for
+### 7. Docker for containerization of the application
+
+To containerize your application using Docker:
+
+- Install Docker on your development machine.
+- Create a Dockerfile in the project directory to define the application's dependencies, build process, and runtime configuration.
+- Build the Docker image using the `docker build` command.
+- Run the Docker container locally to verify that the application functions correctly.
+- Push the Docker image to a container registry or Docker Hub.
+- Deploy the Docker image to a container orchestration platform, such as Kubernetes, for production use.
+
+Make sure to adjust the instructions above based on your specific project requirements and configurations. Provide clear explanations and include any necessary command-line instructions or code snippets to guide readers through the setup and implementation process.
 
 
 ## Our team member
