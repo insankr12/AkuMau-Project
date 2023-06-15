@@ -24,21 +24,86 @@ AkuMau is an online learning application to prepare for UTBK-SNBT. This applicat
 9. a
 10. a
 
-## Create using the following technology stack:
+## Technology Stack
+
+The AkuMau project is created using the following technology stack:
+
+1. Kotlin for mobile app development
+2. TensorFlow for machine learning tasks
+3. Google Cloud App Engine for cloud infrastructure
+4. Node.js and Express.js for server-side development
+5. CloudSQL using MySQL as the database
+6. Firebase for authentication and authorization
+7. Docker for containerization of the application
+
+## Setup and Deployment
+
 ### 1. Kotlin for mobile app development
-test1
+
+To develop the mobile app using Kotlin:
+
+- Install Android Studio, which includes the Kotlin plugin.
+- Create a new Android project in Android Studio.
+- Set up the necessary dependencies and configurations for your project.
+- Write Kotlin code to implement the desired features and functionality.
+- Test the app on an emulator or physical device.
+- Build and distribute the app to users through the Google Play Store or other distribution channels.
+
 ### 2. TensorFlow for machine learning tasks
-test1
+
+To use TensorFlow for machine learning tasks:
+
+- Install TensorFlow by adding the necessary dependencies to your project's build files.
+- Define and implement the machine learning models using TensorFlow's APIs.
+- Train the models using appropriate datasets and optimization techniques.
+- Evaluate and fine-tune the models based on performance metrics.
+- Integrate the trained models into your mobile app or backend system to make predictions or perform desired tasks.
+
 ### 3. Google Cloud App Engine for cloud infrastructure
-test1
+
+To deploy your application using Google Cloud App Engine:
+
+- Install the Google Cloud SDK and set up your GCP project.
+- Configure your App Engine settings in the `app.yaml` file, including the runtime environment, scaling options, and other configurations.
+- Use the `gcloud app deploy` command to deploy your application to App Engine.
+- Monitor and manage your deployed application using the App Engine dashboard or command-line tools.
+- Scale your application as needed to handle increasing traffic or load.
+
 ### 4. Node.js and Express.js for server-side development
-test1
-### 5. CloudSQL using mySQL as the database
-test1
+
+To develop the server-side components using Node.js and Express.js:
+
+- Install Node.js on your development machine.
+- Create a new Node.js project or navigate to an existing project directory.
+- Set up the necessary dependencies by configuring the `package.json` file.
+- Write server-side logic using Express.js, defining routes, middleware, and business logic.
+- Test the server-side code using appropriate testing frameworks or tools.
+- Deploy the Node.js application to a hosting provider or cloud platform for production use.
+
+### 5. CloudSQL using MySQL as the database
+
+To set up CloudSQL with MySQL for your project:
+
+- Create a CloudSQL instance in the Google Cloud Console.
+- Configure the instance settings, including the instance type, storage capacity, and backup options.
+- Create a database within the CloudSQL instance.
+- Connect to the CloudSQL instance using the provided connection details (host, port, username, password).
+- Use SQL statements or an ORM (Object-Relational Mapping) library to interact with the MySQL database.
+- Secure the database by implementing appropriate access controls and encryption.
+
 ### 6. Firebase for authentication and authorization
-test1
-### 7. Docker for containerization of the application
-test1
+
+To set up authentication and authorization using Firebase:
+
+- Create a Firebase project in the Firebase console.
+- Enable the Authentication service and configure the desired authentication providers (e.g., email/password, Google, Facebook).
+- Implement the necessary client-side code to handle user authentication, such as sign-up, sign-in, and password reset.
+- Define and enforce authorization rules to control access to specific resources or functionalities.
+- Test the authentication and authorization flows to ensure they function as intended.
+- Monitor and manage user authentication and authorization through the Firebase console or APIs.
+
+### 7. Docker for
+
 
 ## Our team member
 | Member Name              | Student ID  | Learning Path      | LinkedIn Profile                                                                |
