@@ -4,10 +4,13 @@
 AkuMau is an online learning application to prepare for UTBK-SNBT. This application provides UTBK-SNBT questions and answer’s explanations from previous years and predictions of questions that will be tested on UTBK-SNBT in the future. In addition, this application also provides learning materials and several features such as try-out feature to train students' abilities, discussion forum feature to discuss with other students, and recommendation feature to recommend materials that must be studied by students based on incorrect answers and based on predictions of UTBK-SNBT in the future.
 
 ## Features
-* a
-* b
-* c
-* d
+* Learning Material Search
+* Practice
+* Tryout (To be added)
+* Forum and Discussion (To be added)
+* Progress Tracking System (To be added)
+* Notification Feature (To be added)
+* Membership or Subscription (To be added)
 
 ## Architecture Design
 (pic)
