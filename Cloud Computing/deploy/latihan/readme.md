@@ -1,0 +1,11 @@
+# Folder untuk API Fitur Latihan
+
+Ini adalah folder yang berisi implementasi API untuk fitur latihan dalam aplikasi.
+
+## Penggunaan
+
+Anda dapat mengakses API fitur materi melalui endpoint yang telah diimplementasikan dalam berkas `app.js`. Berkas ini berisi logika dan pengaturan untuk memproses permintaan terkait fitur materi.
+
+## Catatan
+
+
