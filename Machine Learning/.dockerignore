@@ -1,0 +1,16 @@
+Dockerfile
+coba.py
+le.csv
+test.py
+*.pyc
+*.pyd
+*.pyo
+__pycache__
+.pytest_cache
+.idea 
+dataset
+ipynb
+notes.txt
+
+
+

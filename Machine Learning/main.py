@@ -41,7 +41,6 @@ def importDataset(namaTabel, conn=conn_db()):
     elif (df.shape[1]==8):
         x_train = df.iloc[:,0:7].copy()
         x_test = df.iloc[:,5:7].copy()
-        
     return x_train,x_test
     
 
@@ -61,8 +60,6 @@ def updateDataset(csvfile, namaTabel, conn=conn_db()):
     # Mengupdate tabel di Cloud SQL
     data = pd.read_csv(StringIO(csvfile))  # Membaca kembali data dari CSV dalam memori
     data.to_sql(namaTabel, con=engine, if_exists='replace', index=False)
-    message = f"Data {namaTabel} berhasil di update" 
-    return message
 
 app = Flask(__name__)
 
@@ -89,15 +86,15 @@ def index():
             pupred = do_predict(pudata)
             
             # Upload Datasets
-            message1 = updateDataset(lipred,"li")
-            message2 = updateDataset(lepred,"le")
-            message3 = updateDataset(pbmpred,"pbm")
-            message4 = updateDataset(pkpred,"pk")
-            message5 = updateDataset(pmpred,"pm")
-            message6= updateDataset(ppupred,"ppu")
-            message7 = updateDataset(pupred,"pu")            
-            messages = {"Pesan" : [message1,message2,message3,message4,message5,message6,message7]}
-            return jsonify(messages)
+            updateDataset(lipred,"li")
+            updateDataset(lepred,"le")
+            updateDataset(pbmpred,"pbm")
+            updateDataset(pkpred,"pk")
+            updateDataset(pmpred,"pm")
+            updateDataset(ppupred,"ppu")
+            updateDataset(pupred,"pu")
+            message = "Update Dataset Berhasil!!!"            
+            return jsonify({"Pesan": message})
         except Exception as e:
             return jsonify({"error": str(e)})        
     return "OK"
