@@ -27,3 +27,4 @@
         android:textAlignment="center"
         android:text="@string/latihan_soal"
         android:layout_marginBottom="10dp"/>
+</LinearLayout>
