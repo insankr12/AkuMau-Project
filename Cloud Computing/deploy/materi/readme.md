@@ -8,4 +8,4 @@ Anda dapat mengakses API fitur materi melalui endpoint yang telah diimplementasi
 
 ## Catatan
 
-jalankan perintah 'npm install express' dan 'npm install mysql' pada terminal di local environtment anda sebelum 'app.js' dijalankan
+jalankan perintah `npm install express` dan `npm install mysql` pada terminal di local environtment anda sebelum `app.js` dijalankan
