@@ -15,6 +15,9 @@
         android:theme="@style/Theme.AkuMau"
         tools:targetApi="31">
         <activity
+            android:name=".ui.materi.konten.KontenMateriActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.materi.bab.BabActivity"
             android:exported="false" />
         <activity
