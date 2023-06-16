@@ -14,8 +14,8 @@ class MateriAdapter(private val list: ArrayList<MateriResponseItem>) : RecyclerV
 .Adapter<MateriAdapter.MateriHolder>() {
 
     class MateriHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-        fun bind(materiResponseItem: MateriResponseItem){
-            with(itemView){
+        fun bind(materiResponseItem: MateriResponseItem) {
+            with(itemView) {
                 val tvItem: TextView = itemView.findViewById(R.id.tvItem)
                 tvItem.text = materiResponseItem.subtes
                 setOnClickListener {
@@ -29,8 +29,10 @@ class MateriAdapter(private val list: ArrayList<MateriResponseItem>) : RecyclerV
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MateriHolder {
-        val view: View = LayoutInflater.from(parent.context).inflate(R.layout.item,
-            parent, false)
+        val view: View = LayoutInflater.from(parent.context).inflate(
+            R.layout.item,
+            parent, false
+        )
         return MateriHolder(view)
     }
 

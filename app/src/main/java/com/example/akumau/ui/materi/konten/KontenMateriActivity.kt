@@ -1,8 +1,7 @@
 package com.example.akumau.ui.materi.konten
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.akumau.R
+import androidx.appcompat.app.AppCompatActivity
 import com.example.akumau.data.response.MateriItem
 import com.example.akumau.databinding.ActivityKontenMateriBinding
 

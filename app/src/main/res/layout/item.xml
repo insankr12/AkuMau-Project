@@ -19,6 +19,6 @@
         android:textStyle="bold"
         android:padding="16dp"
         android:gravity="center|left"
-        tools:text="Penalaran Matematika"/>
+        tools:text="Penalaran Matematika" />
 
 </androidx.cardview.widget.CardView>

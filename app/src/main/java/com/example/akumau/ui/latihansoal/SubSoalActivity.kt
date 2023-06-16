@@ -1,7 +1,7 @@
 package com.example.akumau.ui.latihansoal
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.example.akumau.R
 
 class SubSoalActivity : AppCompatActivity() {
