@@ -1,5 +1,6 @@
 package com.example.akumau.ui
 
+import android.content.Intent
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.app.AppCompatActivity
@@ -11,26 +12,19 @@ import com.example.akumau.R
 import com.example.akumau.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val navView: BottomNavigationView = binding.navView
+        binding.btnMateri.setOnClickListener {
+            startActivity(Intent(this@MainActivity, MateriActivity::class.java))
+        }
 
-        val navController = findNavController(R.id.nav_host_fragment_activity_main)
-        // Passing each menu ID as a set of Ids because each
-        // menu should be considered as top level destinations.
-        val appBarConfiguration = AppBarConfiguration(
-            setOf(
-                R.id.navigation_home, R.id.navigation_latihan_soal, R.id.navigation_try_out
-            )
-        )
-        setupActionBarWithNavController(navController, appBarConfiguration)
-        navView.setupWithNavController(navController)
+        binding.btnLatsol.setOnClickListener {
+            startActivity(Intent(this@MainActivity, SubSoalActivity::class.java))
+        }
     }
 }
