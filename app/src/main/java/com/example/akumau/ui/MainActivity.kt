@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.akumau.databinding.ActivityMainBinding
+import com.example.akumau.ui.latihansoal.SubSoalActivity
 import com.example.akumau.ui.materi.subtes.MateriActivity
 
 class MainActivity : AppCompatActivity() {
