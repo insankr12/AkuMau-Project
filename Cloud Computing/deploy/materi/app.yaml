@@ -1,0 +1,8 @@
+runtime: nodejs16
+service: backend
+
+env_variables:
+  INSTANCE_UNIX_SOCKET: /cloudsql/akumau-capstoneproject:us-central1:akumau-db
+  DB_USER: root
+  DB_PASS: akumaudb
+  DB_NAME: akumau-db
