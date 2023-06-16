@@ -66,7 +66,7 @@ The AkuMau project is created using the following technology stack:
 4. Node.js and Express.js for server-side development
 5. CloudSQL using MySQL as the database
 6. Firebase for authentication and authorization
-7. Docker for containerization of the application
+7. Docker for containerization of the applicationJadika
 
 ## Setup and Deployment
 
@@ -134,7 +134,18 @@ To set up authentication and authorization using Firebase:
 - Test the authentication and authorization flows to ensure they function as intended.
 - Monitor and manage user authentication and authorization through the Firebase console or APIs.
 
-### 7. Docker for containerization of the application
+### 7. Cloud Run for Scaling the application based on demand
+
+To set up scaling, configuring, and managing your ML application:
+
+-
+-
+-
+-
+-
+-
+
+### 8. Docker for containerization of the application
 
 To containerize your application using Docker:
 
